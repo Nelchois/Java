@@ -1,0 +1,3 @@
+# Hi, this is Nelchois.
+Now days I'm usually study about Java and solving algorithm questions. 
+Here is my daily java study codes page, and if you want watch my code about algorithm, please come to my [blog page](https://readydeveloperone.blogspot.com/). Oops, this blog page is written by **korean**, because, I could'nt explain fluently in english(jargon or something like that you know). So please understand about it, thanks.
