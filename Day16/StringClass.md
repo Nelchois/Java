@@ -23,8 +23,8 @@ Important thing, methods of String class can't change String. They just find ans
 3. String
 - 'substring(int beginIndex)' : return String from beginIndex to last of String
 - 'substring(int beginIndex, int endIndex)' : return String from begin to last index
-- 'toLowerCase()' : make String lowercase
-- 'toUpperCase()' : make String uppercase
+- 'toLowerCase()' : change String lowercase
+- 'toUpperCase()' : change String uppercase
 
 ---
 
