@@ -3,6 +3,8 @@ This page is explain of major methods of string class.
 
 Methods are seperated by return data type.
 
+Important thing, methods of String class can't change String. They just find answer that you want. However, StringBuffer class can change String. Next time we will study about it.
+
 ---
 
 1. char
