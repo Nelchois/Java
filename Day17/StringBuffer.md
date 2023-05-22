@@ -20,4 +20,4 @@ Different with String Class, string Buffer class can modify the String.
 - setCharAt(int index, char c) change char where in index to c.
 
 4. String
-- toString() : return the String class object.
+- toString() : return the String class object. (just address not real str)
